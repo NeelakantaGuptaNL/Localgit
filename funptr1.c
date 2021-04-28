@@ -18,6 +18,7 @@ res=(*op[0])(5,6);
 printf("res= %d\n",res);
 printf("res= %d\n",res);
 printf("\n hello");
+printf("\n hello");
 fun1=disp;
 fun1();
 return 0;
