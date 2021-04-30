@@ -5,6 +5,7 @@ void fun2(){ printf("\n fun2");}
 
 void funptr2(void (*fun)())
 {
+printf("welcome ");
 fun();
 }
 
