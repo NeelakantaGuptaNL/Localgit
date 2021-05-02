@@ -12,6 +12,7 @@ fun();
 void main()
 {
 printf("main");
+printf("main222");
 funptr2(fun1);
 funptr2(fun2);
 }
