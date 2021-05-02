@@ -14,6 +14,7 @@ int res=0;
 int (*op[4])(int n, int m)={add, sub, mul, div};
 
 printf("\n welcome ");
+// comment added
 res=(*op[0])(5,6);
 
 printf("res= %d\n",res);
