@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-this is test
-=======
-this is testtest 
 
+//this is test
 void fun(void)
 {
 printf("this is fun");
 }
->>>>>>> develop
+
